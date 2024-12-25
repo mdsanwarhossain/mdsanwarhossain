@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sanwar Hossain</h1>
-<h3 align="center">a passionate Software Engineer and Full Stack Developer specializing in cutting-edge technologies such as Angular, React, Spring Boot JavaScript, HTML, and CSS.</h3>
+<h3 align="center">A passionate Software Engineer and Full Stack Developer specializing in cutting-edge technologies such as Angular, React, Spring Boot JavaScript, HTML, and CSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsanwarhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdsanwarhossain" /> </p>
 
