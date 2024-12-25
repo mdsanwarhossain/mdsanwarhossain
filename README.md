@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Microservices Architecture Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-sanwar-hossain](https://www.linkedin.com/in/md-sanwar-hossain)
+- 👨‍💻 All of my projects are available here.
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/md-sanwar-hossain](https://www.linkedin.com/in/md-sanwar-hossain)
 
