@@ -102,6 +102,3 @@ I’m open to collaborating on:
 - Microservices and enterprise application development.
 
 Let’s create something amazing together! 🚀
-<br>
-<img src="https://raw.githubusercontent.com/mdsanwarhossain/mdsanwarhossain/output/snake.svg" alt="Snake animation" />
-
