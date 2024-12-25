@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Sanwar Hossain</h1>
-<h3 align="center">A passionate Software Engineer and Full Stack Developer specializing in cutting-edge technologies such as Angular, React, Spring Boot JavaScript, HTML, and CSS.</h3>
-
+<h3 align="center">A passionate Software Engineer and Full Stack Developer</h3>
+<center>
+<img src='https://media.licdn.com/dms/image/v2/D5616AQFIoc_FTRXwJg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735113870124?e=2147483647&v=beta&t=BXb-TojLrKOVSvLC9SNv6EtsGkY4fGv-U9vYCY4-Y4c' alt='Md Sanwar Hossain'></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsanwarhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdsanwarhossain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsanwarhossain" alt="mdsanwarhossain" /></a> </p>
@@ -50,6 +51,12 @@
 - 🚀 Aiming to align academic learning with industry needs by mastering scalable and efficient software solutions.
 
 ---
+---
+# 👨‍💻 Professional Summary
+
+Software engineer with experience in **Angular**, **React**, and **Spring Boot**, passionate about research in software engineering. 🔍 Focused on **code optimization** and **software reliability**, with a goal to advance knowledge through **higher studies** and impactful contributions to the field. 📚
+
+---
 
 ## 🔧 Tech Expertise
 
@@ -80,8 +87,8 @@
 
 ## 📫 Let's Connect!
 
-- **GitHub**: [github.com/sanwarhossain](https://github.com/mdsanwarhossain)
-- **LinkedIn**: [linkedin.com/in/sanwarhossain](https://linkedin.com/in/md-sanwar-hossain)
+- **GitHub**: [github.com/mdsanwarhossain](https://github.com/mdsanwarhossain)
+- **LinkedIn**: [linkedin.com/in/md-sanwar-hossain](https://linkedin.com/in/md-sanwar-hossain)
 - **Email**: sanwar.iit.nstu@gmail.com
 
 
