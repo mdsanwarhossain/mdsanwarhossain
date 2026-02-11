@@ -4,10 +4,6 @@
 <img src='https://media.licdn.com/dms/image/v2/D5616AQFIoc_FTRXwJg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735113870124?e=2147483647&v=beta&t=BXb-TojLrKOVSvLC9SNv6EtsGkY4fGv-U9vYCY4-Y4c' alt='Md Sanwar Hossain'></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsanwarhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdsanwarhossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsanwarhossain" alt="mdsanwarhossain" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **E-Procurement System**
 
 - 🌱 I’m currently learning **Spring Boot, DevOps practices, CI/CD pipelines, and advanced Angular development.**
@@ -36,9 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsanwarhossain&show_icons=true&locale=en&layout=compact" alt="mdsanwarhossain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsanwarhossain&show_icons=true&locale=en" alt="mdsanwarhossain" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsanwarhossain&" alt="mdsanwarhossain" /></p>
 
 
 ---
