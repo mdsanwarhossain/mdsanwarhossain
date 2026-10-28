@@ -36,15 +36,16 @@
     <circle cx="966" cy="84" r="4"/><circle cx="1095" cy="74" r="4"/>
   </g>
 
-  <g transform="translate(78 64)">
-    <rect width="88" height="28" rx="14" fill="#71E6FF" fill-opacity="0.12" stroke="#71E6FF" stroke-opacity="0.55"/>
-    <circle cx="18" cy="14" r="4" fill="#71E6FF"/>
-    <text x="31" y="19" fill="#D9F9FF" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">AI READY</text>
-  </g>
-  <text x="78" y="152" fill="white" font-family="Georgia, serif" font-size="48" font-weight="700">Md Sanwar Hossain</text>
-  <text x="81" y="190" fill="#B7C7FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">BACKEND SOFTWARE ENGINEER  ·  JAVA  ·  SPRING BOOT</text>
-  <text x="81" y="235" fill="#E8EAFF" font-family="Arial, sans-serif" font-size="16">Building reliable systems, cloud-native services, and intelligent products.</text>
-  <text x="81" y="274" fill="#9AA7E7" font-family="monospace" font-size="13">&lt; clean architecture / measurable impact / continuous learning &gt;</text>
-  <path d="M82 302H438" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-  <text x="82" y="328" fill="#8996D4" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.5">SOFTWARE ENGINEERING  •  MICROSERVICES  •  DEVOPS</text>
+  <text x="78" y="118" fill="#71E6FF" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">SOFTWARE ENGINEER</text>
+  <text x="78" y="164" fill="white" font-family="Georgia, serif" font-size="48" font-weight="700">Md Sanwar Hossain</text>
+  <text x="81" y="202" fill="#B7C7FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">JAVA  ·  SPRING BOOT  ·  MICROSERVICES</text>
+  <text x="81" y="246" fill="#E8EAFF" font-family="Arial, sans-serif" font-size="16">Building reliable systems and cloud-ready enterprise applications.</text>
+  <text x="81" y="282" fill="#9AA7E7" font-family="monospace" font-size="13">&lt; clean architecture / measurable impact / continuous learning &gt;</text>
+  <path d="M82 310H510" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="82" y="336" fill="#8996D4" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.5">BACKEND  •  REST APIs  •  CLOUD  •  DEVOPS</text>
+  <circle cx="1095" cy="180" r="91" fill="#11163A" stroke="#71E6FF" stroke-opacity="0.45" stroke-width="3"/>
+  <circle cx="1095" cy="180" r="82" fill="#20275A" stroke="#A98BFF" stroke-opacity="0.45" stroke-width="2"/>
+  <clipPath id="profileClip"><circle cx="1095" cy="180" r="78"/></clipPath>
+  <image href="https://github.com/mdsanwarhossain.png?size=320" x="1017" y="102" width="156" height="156" preserveAspectRatio="xMidYMid slice" clip-path="url(#profileClip)"/>
+  <circle cx="1095" cy="180" r="101" stroke="#71E6FF" stroke-opacity="0.18" stroke-dasharray="4 8"/>
 </svg>
