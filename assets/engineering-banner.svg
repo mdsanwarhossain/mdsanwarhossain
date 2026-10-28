@@ -46,6 +46,6 @@
   <circle cx="1095" cy="180" r="91" fill="#11163A" stroke="#71E6FF" stroke-opacity="0.45" stroke-width="3"/>
   <circle cx="1095" cy="180" r="82" fill="#20275A" stroke="#A98BFF" stroke-opacity="0.45" stroke-width="2"/>
   <clipPath id="profileClip"><circle cx="1095" cy="180" r="78"/></clipPath>
-  <image href="https://github.com/mdsanwarhossain.png?size=320" x="1017" y="102" width="156" height="156" preserveAspectRatio="xMidYMid slice" clip-path="url(#profileClip)"/>
+  <image href="https://github.com/mdsanwarhossain.png?size=320" x="1017" y="102" width="156" height="156"/>
   <circle cx="1095" cy="180" r="101" stroke="#71E6FF" stroke-opacity="0.18" stroke-dasharray="4 8"/>
 </svg>
