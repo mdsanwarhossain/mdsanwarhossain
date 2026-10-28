@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="./assets/ai-engineering-banner.svg" alt="Md Sanwar Hossain — AI-ready backend software engineer" width="100%" />
+  <img src="./assets/engineering-banner.svg" alt="Md Sanwar Hossain — backend software engineer" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://mdsanwarhossain.me">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/md-sanwar-hossain">LinkedIn</a> ·
-  <a href="mailto:sanwar.iit.nstu@gmail.com">Email</a> ·
-  <a href="https://github.com/mdsanwarhossain">GitHub</a>
+  <a href="https://mdsanwarhossain.me"><img src="https://img.shields.io/badge/Portfolio-6d5dfc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md-sanwar-hossain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sanwar.iit.nstu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mdsanwarhossain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mdsanwarhossain&label=Profile%20views&color=6d5dfc&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Available%20for-Collaboration-6d5dfc?style=flat-square" alt="Available for collaboration" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-6d5dfc?style=flat-square" alt="Open to collaboration" />
 </div>
 
 ## About me
@@ -25,6 +25,16 @@ I am a software engineer focused on building **scalable, secure, and maintainabl
 - 🤝 Open to **open-source, backend, and enterprise application collaborations**
 - 🎓 BSSE student at **IIT, NSTU**
 - ⚡ I enjoy turning complex engineering problems into simple, reliable solutions
+
+## What I bring
+
+<table>
+  <tr>
+    <td width="33%" align="center">🏗️<br /><strong>Reliable Architecture</strong><br />Maintainable services designed for growth</td>
+    <td width="33%" align="center">⚙️<br /><strong>Engineering Discipline</strong><br />Clean code, testing, and automation</td>
+    <td width="33%" align="center">📈<br /><strong>Business Impact</strong><br />Practical solutions that create value</td>
+  </tr>
+</table>
 
 ## Engineering focus
 
