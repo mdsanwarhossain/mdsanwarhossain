@@ -1,0 +1,50 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1028"/>
+      <stop offset="0.55" stop-color="#171452"/>
+      <stop offset="1" stop-color="#30206B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="80" x2="1150" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#71E6FF"/>
+      <stop offset="1" stop-color="#A98BFF"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A8B1FF" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1080" cy="72" r="170" fill="#6C5CE7" fill-opacity="0.13"/>
+  <circle cx="1080" cy="72" r="112" stroke="#9D8BFF" stroke-opacity="0.25"/>
+  <circle cx="1080" cy="72" r="72" stroke="#71E6FF" stroke-opacity="0.35"/>
+
+  <g stroke="url(#accent)" stroke-width="1.5" stroke-opacity="0.75">
+    <path d="M820 218L934 154L1030 204L1110 139L1212 180"/>
+    <path d="M880 286L951 232L1040 265L1142 218L1235 242"/>
+    <path d="M902 110L966 84L1030 116L1095 74L1188 104"/>
+  </g>
+  <g fill="#71E6FF" filter="url(#glow)">
+    <circle cx="820" cy="218" r="4"/><circle cx="934" cy="154" r="4"/>
+    <circle cx="1030" cy="204" r="4"/><circle cx="1110" cy="139" r="4"/>
+    <circle cx="1212" cy="180" r="4"/><circle cx="951" cy="232" r="4"/>
+    <circle cx="1040" cy="265" r="4"/><circle cx="1142" cy="218" r="4"/>
+    <circle cx="966" cy="84" r="4"/><circle cx="1095" cy="74" r="4"/>
+  </g>
+
+  <g transform="translate(78 64)">
+    <rect width="88" height="28" rx="14" fill="#71E6FF" fill-opacity="0.12" stroke="#71E6FF" stroke-opacity="0.55"/>
+    <circle cx="18" cy="14" r="4" fill="#71E6FF"/>
+    <text x="31" y="19" fill="#D9F9FF" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">AI READY</text>
+  </g>
+  <text x="78" y="152" fill="white" font-family="Georgia, serif" font-size="48" font-weight="700">Md Sanwar Hossain</text>
+  <text x="81" y="190" fill="#B7C7FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">BACKEND SOFTWARE ENGINEER  ·  JAVA  ·  SPRING BOOT</text>
+  <text x="81" y="235" fill="#E8EAFF" font-family="Arial, sans-serif" font-size="16">Building reliable systems, cloud-native services, and intelligent products.</text>
+  <text x="81" y="274" fill="#9AA7E7" font-family="monospace" font-size="13">&lt; clean architecture / measurable impact / continuous learning &gt;</text>
+  <path d="M82 302H438" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="82" y="328" fill="#8996D4" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.5">SOFTWARE ENGINEERING  •  MICROSERVICES  •  DEVOPS</text>
+</svg>
