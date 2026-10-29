@@ -52,13 +52,6 @@ I am a software engineer focused on building **scalable, secure, and maintainabl
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,html,css,tailwind,docker,jenkins,aws,mysql,postgres,redis,git,linux&perline=9" alt="Java, Spring, Angular, React, TypeScript, JavaScript, HTML, CSS, Tailwind, Docker, Jenkins, AWS, MySQL, PostgreSQL, Redis, Git and Linux" />
 </p>
 
-## GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdsanwarhossain&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsanwarhossain&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</div>
-
 ## Let's build something meaningful
 
 Whether it is an enterprise platform, a cloud-native service, or an AI-assisted product, I am always interested in thoughtful engineering and useful collaboration.
