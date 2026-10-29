@@ -34,11 +34,6 @@
     <circle cx="1040" cy="265" r="4"/><circle cx="1142" cy="218" r="4"/>
     <circle cx="966" cy="84" r="4"/><circle cx="1095" cy="74" r="4"/>
   </g>
-  <g transform="translate(78 64)">
-    <rect width="88" height="28" rx="14" fill="#71E6FF" fill-opacity="0.12" stroke="#71E6FF" stroke-opacity="0.55"/>
-    <circle cx="18" cy="14" r="4" fill="#71E6FF"/>
-    <text x="31" y="19" fill="#D9F9FF" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">AI READY</text>
-  </g>
   <text x="78" y="152" fill="white" font-family="Georgia, serif" font-size="48" font-weight="700">Md Sanwar Hossain</text>
   <text x="81" y="190" fill="#B7C7FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">BACKEND SOFTWARE ENGINEER  ·  JAVA  ·  SPRING BOOT</text>
   <text x="81" y="235" fill="#E8EAFF" font-family="Arial, sans-serif" font-size="16">Building reliable systems, cloud-native services, and intelligent products.</text>
