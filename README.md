@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/engineering-banner.svg" alt="Md Sanwar Hossain — backend software engineer" width="100%" />
+  <img src="./assets/ai-engineering-banner.svg" alt="Md Sanwar Hossain — backend software engineer" width="100%" />
 </div>
 
 <div align="center">
